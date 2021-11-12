@@ -22,7 +22,7 @@ export default function Form(){
         console.log(data)
           localStorage.setItem("user", JSON.stringify(data.data));
     
-          navigate("/");
+          navigate("/room");
         } catch (error) {
         if(error.response){
             console.log(error.response.data.error)

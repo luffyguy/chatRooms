@@ -4,12 +4,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBvhJpAR1qgkyTf3ePybOdvcrE3EiIOzg4",
-  authDomain: "posist-submission.firebaseapp.com",
-  projectId: "posist-submission",
-  storageBucket: "posist-submission.appspot.com",
-  messagingSenderId: "661213923348",
-  appId: "1:661213923348:web:7d737d088c80b8a6b67f01"
+  apiKey: "AIzaSyAP3rtMB2kj9tqItw08lK-e_ihriTq3vdY",
+  authDomain: "posist-harshtanwar.firebaseapp.com",
+  projectId: "posist-harshtanwar",
+  storageBucket: "posist-harshtanwar.appspot.com",
+  messagingSenderId: "279879694262",
+  appId: "1:279879694262:web:582219db85761d66e3f317",
 };
 
 // Initialize Firebase
